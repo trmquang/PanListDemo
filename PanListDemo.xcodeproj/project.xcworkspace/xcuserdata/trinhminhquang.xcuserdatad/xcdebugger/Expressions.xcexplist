@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.panView(UIPanGestureRecognizer) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view.frame.origin.x">
+            </PersistentString>
+            <PersistentString
+               value = "self.innerView.frame.origin.x - xPositionOfInnerView">
+            </PersistentString>
+            <PersistentString
+               value = "self.innerView.frame.width/4">
+            </PersistentString>
+            <PersistentString
+               value = "xPositionOfInnerView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
